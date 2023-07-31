@@ -56,7 +56,7 @@ async def get_stock_price(ticker):
     logger.info("Calling get_stock_price for {ticker}}")
     url = f"https://query1.finance.yahoo.com/v7/finance/options/{ticker}"
     url_response = await fetch_from_url(url, "json")
-    price = url_response.data["optionChain"]["result"]["quote"]["regularMarketPrice"]
+    price = url_response.data["optionChain"]["result"][0]["quote"]["regularMarketPrice"]
     # price = randint(132, 148) 
     return price
 
