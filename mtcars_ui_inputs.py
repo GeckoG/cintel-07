@@ -30,7 +30,7 @@ def get_mtcars_inputs():
         ui.input_select(
             id="MTCARS_STOCK_SELECT",
             label="Select Stock",
-            choices=["Wolverine World Wide Inc", "Nike Inc", "Lululemon Athletica Inc", "Under Armour Inc", "On Holding AG"]
+            choices=["Wolverine World Wide Inc", "Nike Inc", "Lululemon Athletica Inc", "Under Armour Inc", "On Holding AG"],
             selected="Nike Inc",
         ),
         ui.tags.hr(),
