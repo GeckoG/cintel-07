@@ -12,5 +12,4 @@ requests
 rsconnect-python
 shiny 
 shinyswatch 
-shinywidgets 
-yfinance
+shinywidgets
