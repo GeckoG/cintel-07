@@ -37,13 +37,14 @@ from pathlib import Path
 
 #Local Imports
 from util_logger import setup_logger
+from fetch import fetch_from_url
 
 logger, log_filename = setup_logger(__file__)
 
 def lookup_ticker(company):
     stocks_dictionary = {
         "Wolverine World Wide Inc": "WWW",
-        "Nice Inc": "NKE",
+        "Nike Inc": "NKE",
         "Lululemon Athletica Inc": "LULU",
         "Under Armour Inc": "UA",
         "On Holding AG": "ONON",
@@ -53,9 +54,10 @@ def lookup_ticker(company):
 
 async def get_stock_price(ticker):
     logger.info("Calling get_stock_price for {ticker}}")
-    # stock = yf.Ticker(ticker) # Get the stock data
-    # price = stock.history(period="1d").tail(1)["Close"][0] # Get the closing price
-    price = randint(132, 148) 
+    url = f"https://query1.finance.yahoo.com/v7/finance/options/{ticker}"
+    url_response = await fetch_from_url(url, "json")
+    price = url_response.data["optionChain"]["result"]["quote"]["regularMarketPrice"]
+    # price = randint(132, 148) 
     return price
 
 # Function to create or overwrite the CSV file with column headings
@@ -69,7 +71,7 @@ async def update_csv_stock():
     """Update the CSV file with the latest stock information."""
     logger.info("Calling update_csv_stock")
     try:
-        companies = ["Wolverine World Wide Inc", "Nice Inc", "Lululemon Athletica Inc", "Under Armour Inc", "On Holding AG"]
+        companies = ["Wolverine World Wide Inc", "Nike Inc", "Lululemon Athletica Inc", "Under Armour Inc", "On Holding AG"]
         update_interval = 60  # Update every 1 minute (60 seconds)
         total_runtime = 15 * 60  # Total runtime maximum of 15 minutes
         num_updates = 10  # Keep the most recent 10 readings

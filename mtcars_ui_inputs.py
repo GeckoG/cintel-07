@@ -27,6 +27,12 @@ def get_mtcars_inputs():
             choices=["ELY MN", "Death Valley CA", "Maryville MO"],
             selected="ELY MN",
         ),
+        ui.input_select(
+            id="MTCARS_STOCK_SELECT",
+            label="Select Stock",
+            choices=["Wolverine World Wide Inc", "Nike Inc", "Lululemon Athletica Inc", "Under Armour Inc", "On Holding AG"]
+            selected="Nike Inc",
+        ),
         ui.tags.hr(),
         ui.tags.section(
             ui.h3("MT Cars Table"),
