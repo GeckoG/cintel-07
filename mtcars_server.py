@@ -63,7 +63,6 @@ def get_mtcars_server_functions(input, output, session):
     reactive_df = reactive.Value()
 
     reactive_stock = reactive.Value("Nike, Inc")
-    reactive_stock_df = reactive.Value()
 
     # We also provided shared variables to hold the original dataframe and its count
     original_df = get_mtcars_df()

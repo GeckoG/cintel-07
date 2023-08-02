@@ -31,7 +31,6 @@ import datetime
 
 #External Imports
 import pandas as pd
-import yfinance as yf
 from collections import deque
 from pathlib import Path
 
@@ -82,7 +81,7 @@ async def update_csv_stock():
         # Use a deque to store just the last, most recent 10 readings in order
         records_deque = deque(maxlen=num_updates)
 
-        fp = Path(__file__).parent.joinpath("data").joinpath("stock.csv")
+        fp = Path(__file__).parent.joinpath("data").joinpath("mtcars_stock.csv")
 
         # Check if the file exists, if not, create it with only the column headings
         if not os.path.exists(fp):
@@ -94,7 +93,7 @@ async def update_csv_stock():
             for company in companies:
                 ticker = lookup_ticker(company)
                 new_price = await get_stock_price(ticker)
-                time_now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")  # Current time
+                time_now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")  # Current time
                 new_record = {
                     "Company": company,
                     "Ticker": ticker,

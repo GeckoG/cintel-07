@@ -1,0 +1,150 @@
+2023-07-31 15:17:45,839.continuous_location.INFO =============================================================
+2023-07-31 15:17:45,840.continuous_location.INFO Today is 2023-07-31 at 03:17 PM
+2023-07-31 15:17:45,890.continuous_location.INFO This file is running on: nt Windows 10
+2023-07-31 15:17:45,890.continuous_location.INFO The Python version is: 3.11.4
+2023-07-31 15:17:45,891.continuous_location.INFO The active environment path is:   C:\Users\MattGoeckel\AppData\Local\anaconda\envs\cint
+2023-07-31 15:17:45,892.continuous_location.INFO The current working directory is: C:\Users\MattGoeckel\OneDrive\Documents\Northwest Missouri State\Continuous Intelligence\Module 5\cintel-05-live-updates
+2023-07-31 15:17:45,893.continuous_location.INFO =============================================================
+2023-07-31 15:17:58,217.continuous_location.INFO Calling update_csv_location
+2023-07-31 15:17:58,217.continuous_location.INFO update_interval: 60
+2023-07-31 15:17:58,218.continuous_location.INFO total_runtime: 900
+2023-07-31 15:17:58,218.continuous_location.INFO num_updates: 10
+2023-07-31 15:17:58,219.continuous_location.INFO Initialized csv file at C:\Users\MattGoeckel\OneDrive\Documents\Northwest Missouri State\Continuous Intelligence\Module 5\cintel-05-live-updates\data\mtcars_location.csv
+2023-07-31 15:17:58,219.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:17:58,221.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=None&units=imperial
+2023-07-31 15:17:58,221.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:17:58,222.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=None&units=imperial
+2023-07-31 15:17:58,223.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:17:58,224.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=None&units=imperial
+2023-07-31 15:17:58,229.continuous_location.INFO Saving temperatures to C:\Users\MattGoeckel\OneDrive\Documents\Northwest Missouri State\Continuous Intelligence\Module 5\cintel-05-live-updates\data\mtcars_location.csv
+2023-07-31 15:18:58,232.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:18:58,233.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=None&units=imperial
+2023-07-31 15:18:58,233.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:18:58,235.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=None&units=imperial
+2023-07-31 15:18:58,235.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:18:58,236.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=None&units=imperial
+2023-07-31 15:18:58,239.continuous_location.INFO Saving temperatures to C:\Users\MattGoeckel\OneDrive\Documents\Northwest Missouri State\Continuous Intelligence\Module 5\cintel-05-live-updates\data\mtcars_location.csv
+2023-07-31 15:19:58,253.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:19:58,254.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=None&units=imperial
+2023-07-31 15:19:58,255.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:19:58,256.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=None&units=imperial
+2023-07-31 15:19:58,256.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:19:58,257.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=None&units=imperial
+2023-07-31 15:19:58,260.continuous_location.INFO Saving temperatures to C:\Users\MattGoeckel\OneDrive\Documents\Northwest Missouri State\Continuous Intelligence\Module 5\cintel-05-live-updates\data\mtcars_location.csv
+2023-07-31 15:20:58,257.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:20:58,258.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=None&units=imperial
+2023-07-31 15:20:58,258.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:20:58,259.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=None&units=imperial
+2023-07-31 15:20:58,260.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:20:58,261.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=None&units=imperial
+2023-07-31 15:20:58,264.continuous_location.INFO Saving temperatures to C:\Users\MattGoeckel\OneDrive\Documents\Northwest Missouri State\Continuous Intelligence\Module 5\cintel-05-live-updates\data\mtcars_location.csv
+2023-07-31 15:21:58,266.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:21:58,271.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=None&units=imperial
+2023-07-31 15:21:58,272.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:21:58,277.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=None&units=imperial
+2023-07-31 15:21:58,279.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:21:58,284.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=None&units=imperial
+2023-07-31 15:21:58,294.continuous_location.INFO Saving temperatures to C:\Users\MattGoeckel\OneDrive\Documents\Northwest Missouri State\Continuous Intelligence\Module 5\cintel-05-live-updates\data\mtcars_location.csv
+2023-07-31 15:22:58,287.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:22:58,288.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=None&units=imperial
+2023-07-31 15:22:58,288.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:22:58,289.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=None&units=imperial
+2023-07-31 15:22:58,289.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:22:58,290.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=None&units=imperial
+2023-07-31 15:22:58,293.continuous_location.INFO Saving temperatures to C:\Users\MattGoeckel\OneDrive\Documents\Northwest Missouri State\Continuous Intelligence\Module 5\cintel-05-live-updates\data\mtcars_location.csv
+2023-07-31 15:23:58,299.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:23:58,300.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=None&units=imperial
+2023-07-31 15:23:58,300.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:23:58,301.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=None&units=imperial
+2023-07-31 15:23:58,302.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:23:58,303.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=None&units=imperial
+2023-07-31 15:23:58,305.continuous_location.INFO Saving temperatures to C:\Users\MattGoeckel\OneDrive\Documents\Northwest Missouri State\Continuous Intelligence\Module 5\cintel-05-live-updates\data\mtcars_location.csv
+2023-07-31 15:24:58,315.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:24:58,316.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=None&units=imperial
+2023-07-31 15:24:58,316.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:24:58,317.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=None&units=imperial
+2023-07-31 15:24:58,318.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:24:58,319.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=None&units=imperial
+2023-07-31 15:24:58,321.continuous_location.INFO Saving temperatures to C:\Users\MattGoeckel\OneDrive\Documents\Northwest Missouri State\Continuous Intelligence\Module 5\cintel-05-live-updates\data\mtcars_location.csv
+2023-07-31 15:25:58,324.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:25:58,325.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=None&units=imperial
+2023-07-31 15:25:58,326.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:25:58,327.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=None&units=imperial
+2023-07-31 15:25:58,327.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:25:58,328.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=None&units=imperial
+2023-07-31 15:25:58,331.continuous_location.INFO Saving temperatures to C:\Users\MattGoeckel\OneDrive\Documents\Northwest Missouri State\Continuous Intelligence\Module 5\cintel-05-live-updates\data\mtcars_location.csv
+2023-07-31 15:26:58,318.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:26:58,319.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=None&units=imperial
+2023-07-31 15:26:58,319.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:26:58,320.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=None&units=imperial
+2023-07-31 15:26:58,320.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:26:58,321.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=None&units=imperial
+2023-07-31 15:26:58,324.continuous_location.INFO Saving temperatures to C:\Users\MattGoeckel\OneDrive\Documents\Northwest Missouri State\Continuous Intelligence\Module 5\cintel-05-live-updates\data\mtcars_location.csv
+2023-07-31 15:29:13,744.continuous_location.INFO Calling update_csv_location
+2023-07-31 15:29:13,745.continuous_location.INFO update_interval: 60
+2023-07-31 15:29:13,745.continuous_location.INFO total_runtime: 900
+2023-07-31 15:29:13,745.continuous_location.INFO num_updates: 10
+2023-07-31 15:29:13,745.continuous_location.INFO Initialized csv file at C:\Users\MattGoeckel\OneDrive\Documents\Northwest Missouri State\Continuous Intelligence\Module 5\cintel-05-live-updates\data\mtcars_location.csv
+2023-07-31 15:29:13,746.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:29:13,747.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=None&units=imperial
+2023-07-31 15:29:13,747.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:29:13,748.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=None&units=imperial
+2023-07-31 15:29:13,748.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:29:13,749.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=None&units=imperial
+2023-07-31 15:29:13,752.continuous_location.INFO Saving temperatures to C:\Users\MattGoeckel\OneDrive\Documents\Northwest Missouri State\Continuous Intelligence\Module 5\cintel-05-live-updates\data\mtcars_location.csv
+2023-07-31 15:30:13,745.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:30:13,746.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=None&units=imperial
+2023-07-31 15:30:13,746.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:30:13,747.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=None&units=imperial
+2023-07-31 15:30:13,748.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:30:13,749.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=None&units=imperial
+2023-07-31 15:30:13,752.continuous_location.INFO Saving temperatures to C:\Users\MattGoeckel\OneDrive\Documents\Northwest Missouri State\Continuous Intelligence\Module 5\cintel-05-live-updates\data\mtcars_location.csv
+2023-07-31 15:31:13,745.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:31:13,746.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=None&units=imperial
+2023-07-31 15:31:13,746.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:31:13,747.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=None&units=imperial
+2023-07-31 15:31:13,748.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:31:13,749.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=None&units=imperial
+2023-07-31 15:31:13,751.continuous_location.INFO Saving temperatures to C:\Users\MattGoeckel\OneDrive\Documents\Northwest Missouri State\Continuous Intelligence\Module 5\cintel-05-live-updates\data\mtcars_location.csv
+2023-07-31 15:32:13,750.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:32:13,751.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=None&units=imperial
+2023-07-31 15:32:13,751.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:32:13,753.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=None&units=imperial
+2023-07-31 15:32:13,753.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:32:13,753.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=None&units=imperial
+2023-07-31 15:32:13,756.continuous_location.INFO Saving temperatures to C:\Users\MattGoeckel\OneDrive\Documents\Northwest Missouri State\Continuous Intelligence\Module 5\cintel-05-live-updates\data\mtcars_location.csv
+2023-07-31 15:33:13,767.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:33:13,768.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=None&units=imperial
+2023-07-31 15:33:13,768.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:33:13,769.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=None&units=imperial
+2023-07-31 15:33:13,770.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:33:13,771.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=None&units=imperial
+2023-07-31 15:33:13,774.continuous_location.INFO Saving temperatures to C:\Users\MattGoeckel\OneDrive\Documents\Northwest Missouri State\Continuous Intelligence\Module 5\cintel-05-live-updates\data\mtcars_location.csv
+2023-07-31 15:34:13,777.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:34:13,778.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=None&units=imperial
+2023-07-31 15:34:13,778.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:34:13,779.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=None&units=imperial
+2023-07-31 15:34:13,780.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:34:13,781.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=None&units=imperial
+2023-07-31 15:34:13,784.continuous_location.INFO Saving temperatures to C:\Users\MattGoeckel\OneDrive\Documents\Northwest Missouri State\Continuous Intelligence\Module 5\cintel-05-live-updates\data\mtcars_location.csv
+2023-07-31 15:35:13,777.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:35:13,778.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=None&units=imperial
+2023-07-31 15:35:13,778.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:35:13,780.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=None&units=imperial
+2023-07-31 15:35:13,780.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:35:13,781.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=None&units=imperial
+2023-07-31 15:35:13,784.continuous_location.INFO Saving temperatures to C:\Users\MattGoeckel\OneDrive\Documents\Northwest Missouri State\Continuous Intelligence\Module 5\cintel-05-live-updates\data\mtcars_location.csv
+2023-07-31 15:36:13,785.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:36:13,786.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=None&units=imperial
+2023-07-31 15:36:13,786.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:36:13,787.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=None&units=imperial
+2023-07-31 15:36:13,788.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:36:13,789.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=None&units=imperial
+2023-07-31 15:36:13,791.continuous_location.INFO Saving temperatures to C:\Users\MattGoeckel\OneDrive\Documents\Northwest Missouri State\Continuous Intelligence\Module 5\cintel-05-live-updates\data\mtcars_location.csv
+2023-07-31 15:37:13,792.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:37:13,793.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=None&units=imperial
+2023-07-31 15:37:13,793.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:37:13,794.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=None&units=imperial
+2023-07-31 15:37:13,795.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
+2023-07-31 15:37:13,796.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=None&units=imperial
+2023-07-31 15:37:13,799.continuous_location.INFO Saving temperatures to C:\Users\MattGoeckel\OneDrive\Documents\Northwest Missouri State\Continuous Intelligence\Module 5\cintel-05-live-updates\data\mtcars_location.csv
