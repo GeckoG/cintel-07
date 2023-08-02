@@ -116,3 +116,4 @@ Before pushing to GitHub, login to [shinyapps.io](https://www.shinyapps.io/) and
 
 - First archive the app.
 - Then delete the archived app.
+- It is recommended to do this before pushing to github.
