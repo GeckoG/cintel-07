@@ -1,0 +1,66 @@
+2023-08-10 18:03:57,503.tests_server.INFO =============================================================
+2023-08-10 18:03:57,503.tests_server.INFO Today is 2023-08-10 at 06:03 PM
+2023-08-10 18:03:57,503.tests_server.INFO This file is running on: nt Windows 10
+2023-08-10 18:03:57,504.tests_server.INFO The Python version is: 3.11.4
+2023-08-10 18:03:57,504.tests_server.INFO The active environment path is:   C:\Users\MattGoeckel\AppData\Local\anaconda\envs\cint
+2023-08-10 18:03:57,504.tests_server.INFO The current working directory is: C:\Users\MattGoeckel\OneDrive\Documents\Northwest Missouri State\Continuous Intelligence\Module 7\cintel-07
+2023-08-10 18:03:57,504.tests_server.INFO =============================================================
+2023-08-10 18:03:58,077.tests_server.INFO READING df from C:\Users\MattGoeckel\OneDrive\Documents\Northwest Missouri State\Continuous Intelligence\Module 7\cintel-07\data\assessments.csv
+2023-08-10 18:03:58,082.tests_server.INFO READING df len 12
+2023-08-10 18:03:58,083.tests_server.INFO init reactive_temp_df len: 12
+2023-08-10 18:03:58,083.tests_server.INFO tests_string starting
+2023-08-10 18:03:58,083.tests_server.INFO Showing test results for Vertical Jump.
+Each person has their own color.
+Units may vary.
+2023-08-10 18:03:58,086.tests_server.INFO Rendering TEMP table with 4 rows
+2023-08-10 18:03:58,159.tests_server.INFO Rendering TEMP chart with 4 points
+2023-08-10 18:06:33,749.tests_server.INFO init reactive_temp_df len: 12
+2023-08-10 18:06:33,750.tests_server.INFO tests_string starting
+2023-08-10 18:06:33,750.tests_server.INFO Showing test results for Broad Jump.
+Each person has their own color.
+Units may vary.
+2023-08-10 18:06:33,752.tests_server.INFO Rendering TEMP table with 4 rows
+2023-08-10 18:06:33,755.tests_server.INFO Rendering TEMP chart with 4 points
+2023-08-10 18:06:39,124.tests_server.INFO init reactive_temp_df len: 12
+2023-08-10 18:06:39,124.tests_server.INFO tests_string starting
+2023-08-10 18:06:39,126.tests_server.INFO Showing test results for 40-Yard Dash.
+Each person has their own color.
+Units may vary.
+2023-08-10 18:06:39,127.tests_server.INFO Rendering TEMP table with 3 rows
+2023-08-10 18:06:39,130.tests_server.INFO Rendering TEMP chart with 3 points
+2023-08-10 18:07:13,101.tests_server.INFO READING df from C:\Users\MattGoeckel\OneDrive\Documents\Northwest Missouri State\Continuous Intelligence\Module 7\cintel-07\data\assessments.csv
+2023-08-10 18:07:13,104.tests_server.INFO READING df len 13
+2023-08-10 18:07:13,104.tests_server.INFO Rendering TEMP table with 3 rows
+2023-08-10 18:07:13,107.tests_server.INFO Rendering TEMP chart with 3 points
+2023-08-10 18:07:21,137.tests_server.INFO READING df from C:\Users\MattGoeckel\OneDrive\Documents\Northwest Missouri State\Continuous Intelligence\Module 7\cintel-07\data\assessments.csv
+2023-08-10 18:07:21,139.tests_server.INFO READING df len 14
+2023-08-10 18:07:21,140.tests_server.INFO Rendering TEMP table with 4 rows
+2023-08-10 18:07:21,142.tests_server.INFO Rendering TEMP chart with 4 points
+2023-08-10 18:07:26,400.tests_server.INFO init reactive_temp_df len: 14
+2023-08-10 18:07:26,401.tests_server.INFO tests_string starting
+2023-08-10 18:07:26,401.tests_server.INFO Showing test results for Vertical Jump.
+Each person has their own color.
+Units may vary.
+2023-08-10 18:07:26,404.tests_server.INFO Rendering TEMP table with 5 rows
+2023-08-10 18:07:26,407.tests_server.INFO Rendering TEMP chart with 5 points
+2023-08-10 18:07:42,040.tests_server.INFO init reactive_temp_df len: 14
+2023-08-10 18:07:42,041.tests_server.INFO tests_string starting
+2023-08-10 18:07:42,041.tests_server.INFO Showing test results for Broad Jump.
+Each person has their own color.
+Units may vary.
+2023-08-10 18:07:42,043.tests_server.INFO Rendering TEMP table with 4 rows
+2023-08-10 18:07:42,047.tests_server.INFO Rendering TEMP chart with 4 points
+2023-08-10 18:07:44,494.tests_server.INFO init reactive_temp_df len: 14
+2023-08-10 18:07:44,495.tests_server.INFO tests_string starting
+2023-08-10 18:07:44,495.tests_server.INFO Showing test results for Vertical Jump.
+Each person has their own color.
+Units may vary.
+2023-08-10 18:07:44,496.tests_server.INFO Rendering TEMP table with 5 rows
+2023-08-10 18:07:44,500.tests_server.INFO Rendering TEMP chart with 5 points
+2023-08-10 18:07:46,186.tests_server.INFO init reactive_temp_df len: 14
+2023-08-10 18:07:46,186.tests_server.INFO tests_string starting
+2023-08-10 18:07:46,187.tests_server.INFO Showing test results for Broad Jump.
+Each person has their own color.
+Units may vary.
+2023-08-10 18:07:46,188.tests_server.INFO Rendering TEMP table with 4 rows
+2023-08-10 18:07:46,192.tests_server.INFO Rendering TEMP chart with 4 points

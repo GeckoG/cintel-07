@@ -1,7 +1,7 @@
 # Continuous Intelligence App
 
-- Repository: [cintel-05-live-updates](https://github.com/geckog/cintel-05-live-updates)
-- Website: [cintel-05-live-updates](https://geckog.github.io/cintel-05-live-updates/)
+- Repository: [cintel-07](https://github.com/geckog/cintel-07)
+- Website: [cintel-07](https://geckog.github.io/cintel-07)
 - Author: [Matt Goeckel](https://github.com/geckog)
 
 -----

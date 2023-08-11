@@ -8,14 +8,14 @@ from shiny import ui
 from shinywidgets import output_widget
 
 
-def get_mtcars_outputs():
+def get_tests_outputs():
     return ui.panel_main(
-        ui.h2("Main Panel with Continuous and Reactive Output"),
+        ui.h2("Main Panel with Reactive Output"),
         ui.tags.hr(),
         ui.tags.section(
             ui.h3("Continuous Updates (Weather API)"),
             ui.tags.br(),
-            ui.output_text("mtcars_location_string"),
+            ui.output_text("mtcars_location_string"), #Pulls from 'server' file
             ui.tags.br(),
             ui.output_ui("mtcars_location_table"),
             ui.tags.br(),
