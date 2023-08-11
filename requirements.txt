@@ -10,7 +10,6 @@ pyodide-py
 python-dotenv
 requests
 rsconnect-python
-csv
 shiny
 shinyswatch
 shinywidgets
